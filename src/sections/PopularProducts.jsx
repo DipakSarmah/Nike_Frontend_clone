@@ -1,5 +1,6 @@
 import PopularProductCard from '../components/PopularProductCard'
 import { products } from '../constants/linkAndConstants'
+import React from "react"
 
 const PopularProducts = () => {
   return (

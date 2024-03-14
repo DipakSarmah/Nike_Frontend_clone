@@ -4,6 +4,7 @@ import { bigShoe1 } from '../assets/images'
 import Button from '../components/Button'
 import ShoeCard from '../components/ShoeCard'
 import { shoes, statistics } from '../constants/linkAndConstants'
+import React from "react"
 
 const Hero = () => {
   const [bigShoeImg, setBigShoeImg] = useState(bigShoe1)

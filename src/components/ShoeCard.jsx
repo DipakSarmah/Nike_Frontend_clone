@@ -1,3 +1,6 @@
+import React from "react"
+
+
 function ShoeCard({ imgURL, changeBigShoeImage, bigShoeImg }) {
   function handleClick() {
     if (bigShoeImg !== imgURL.bigShoe) {

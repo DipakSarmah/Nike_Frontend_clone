@@ -1,6 +1,7 @@
 import { arrowRight } from '../assets/icons'
 import { offer } from '../assets/images'
 import Button from '../components/Button'
+import React from "react"
 
 const SpecialOffer = () => {
   return (
